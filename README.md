@@ -24,7 +24,7 @@ I'm a passionate developer with a keen interest in open source projects and comm
 ## 🔭 Current Projects
 
 - [Project Name](https://github.com/anurag6392/vaartaalaap): Brief description of the project.
-- [Another Project](https://github.com/anurag6392/Rapido): Brief description of the project.
+- [Another Project](https://github.com/anurag6392/voice-converts-to-text): Brief description of the project.
 
 ## 🌱 Learning
 
